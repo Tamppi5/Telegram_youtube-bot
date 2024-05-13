@@ -1,5 +1,6 @@
-Telegram bot to which one can send a youtube search word query in natural language.
-The bot will respond with the first video that it finds on youtube for the search word
+## Telegram bot to query Youtube
+
+You can send the bot a search word in natural langauge. The bot will respond with the first video that it finds on youtube for the search word.
 
 ## Bot token
 
